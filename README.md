@@ -1,2 +1,2 @@
-# Aplikasi Koperasi versi alfin
-Repository untuk Code Igneter koperasi grrrrraahhhhhh
+# Aplikasi Koperasi
+Repository untuk Code Igneter koperasi
